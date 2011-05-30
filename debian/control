@@ -1,0 +1,12 @@
+Source: scim-tables-indonesian
+Section: x11
+Priority: optional
+Maintainer: BlankOn Developers <BlankOn@googlegroups.com>
+Build-Depends: cdbs, debhelper (>= 5.0.0)
+Standards-Version: 3.7.2
+
+Package: scim-tables-indonesian
+Architecture: all
+Depends: scim-modules-table
+Description: Indonesian SCIM tables 
+ Indonesian SCIM tables. 
